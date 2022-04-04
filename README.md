@@ -4,6 +4,8 @@ The first assignment for Computer Systems and Networks module presents student w
 ## HOW TO INSTAL THE SCRIPT 
 First download the zip file **“Computer-System-and-User-Activity-Monitor”**.
 
+![](Images/Screenshot%202022-04-04%20121039.png)
+
 
 
 **This zip folder** should contain: (The files listed down below must be there, otherwise the script won't work. There will be additional files such as README.md, but don't worry about those)
