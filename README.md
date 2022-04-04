@@ -6,7 +6,7 @@ First download the zip file **“Computer-System-and-User-Activity-Monitor”**.
 
 
 
-**This zip folder** should contain: 
+**This zip folder** should contain: (The files listed down below must be there, otherwise the script won't work. There will be additional files such as README.md, but don't worry about those)
 
 **Three Main files:**\
 a)	sysMonitor.sh\
