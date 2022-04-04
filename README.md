@@ -1,6 +1,8 @@
 # INTRODUCTION
 The first assignment for Computer Systems and Networks module presents student with the opportunity to take on a role of an IT Support Engineer, who was given a task to create a script that monitors key details of the computer system such as CPU utilizations or disk usage and provides these in a reader friendly format in a log and html files .
 
+**NOTE:** The main code is in the **sysMonitor.sh** file 
+
 ## HOW TO INSTAL THE SCRIPT 
 **Step1.** Download the zip file **“Computer-System-and-User-Activity-Monitor”**.
 
@@ -58,11 +60,24 @@ Basically any combination that will allow you as a user to execute, read and wri
 
 **Step7.**  After completing all of the steps above it’s finally time to execute the sysMonitor.sh file. You can do this by typing “sysMonitor.sh” in the terminal. Remember that your present working directory should be “Computer-System-and-User-Activity-monitor”. 
 
+![](CLIscreenshots/3.png)
+
 **Step8.** After executing sysMonitor.sh file you can open a **HTML REPORT** (**sysMonitor.html**) and a **LOG FILE** (**sysMonitor.log**) by typing:
 
-**firefox sysMonitor.html OR sensible-browser sysMonitor.html**
+**firefox sysMonitor.html OR sensible-browser sysMonitor.html** 
 
+![](CLIscreenshots/4.png) 
+
+Now you would be able to see:
+
+
+![](CLIscreenshots/5.png) 
+
+You can open  a log file by:\
 **gedit sysMonitor.log**
+
+You can open a bash script by:\
+**gedit sysMonitor.sh**
 
 **Additional Step:**\
 **Step9.** To see what sub-files contain open them with “gedit” command. 
