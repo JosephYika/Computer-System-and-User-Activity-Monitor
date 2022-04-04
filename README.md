@@ -36,7 +36,7 @@ As shown above, all of the files should be in the folder when you click on it.
 
 **Important** If you don't have "master" at the end like shown above, then you just have to rename your folder to "Computer-System-and-User-Activity-Monitor-master", so that "master" is a part of the name. 
 
-**Step4.** The above steps are extremely IMPORTANT for the script to run successfully. The reason for that is that  the code in the sysMonitor.sh file uses “ home/Documents/Computer-System-and-User-Activity-Monitor-master/” directory to locate the data that is placed in this folder. If the files don’t work ( i.e. don’t execute – this might be the first place worth checking!). 
+**Step4.** The above steps are extremely IMPORTANT for the script to run successfully. The reason for that is that  the code in the sysMonitor.sh file uses “ home/Documents/Computer-System-and-User-Activity-Monitor-master/” directory to locate the data that is placed in this folder. If the files don’t work ( i.e. don’t execute – this might be the first place worth checking!).
 
 **Step5.** Open the terminal and from your home directory navigate to the “Computer-System-and-User-Activity-Monitor-master” by typing:
 
