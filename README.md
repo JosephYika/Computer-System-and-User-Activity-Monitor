@@ -20,7 +20,7 @@ a)	diskUsage.log\
 b)	topCPU.log\
 c)	availInter.log\
 d)	currentProc.log\
-e)	topMEM.log\\
+e)	topMEM.log\
 f)	wp2972537.jpg\
 
 
