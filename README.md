@@ -28,9 +28,9 @@ f)	wp2972537.jpg
 
 **Step3.** Now you should have “Computer-System-and-User-Activity-Monitor-master” folder in “Documents”. This should look something like this:
 
-![](CLIscreenshots/277683077_653836735902379_6040129721199457901_n.png).
+![](CLIscreenshots/1.png).
 
-![](CLIscreenshots/277615369_312513990988790_7326290114053128406_n.png).
+![](CLIscreenshots/2.png).
 
 As shown above, all of the files should be in the folder when you click on it. 
 
