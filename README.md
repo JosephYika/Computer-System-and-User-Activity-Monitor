@@ -70,10 +70,10 @@ Basically any combination that will allow you as a user to execute, read and wri
 
 ![](CLIscreenshots/4.png) 
 
-Now you would be able to see:
+Now you would be able to see a real-time updated HTML report:
 
 
-![](CLIscreenshots/5.png) 
+![](CLIscreenshots/Picture1.png) 
 
 You can open  a log file by:\
 **gedit sysMonitor.log**
