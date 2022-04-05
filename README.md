@@ -1,5 +1,7 @@
 # INTRODUCTION
-The first assignment for Computer Systems and Networks module presents student with the opportunity to take on a role of an IT Support Engineer, who was given a task to create a script that monitors key details of the computer system such as CPU utilizations or disk usage and provides these in a reader friendly format in a log and html files .
+The first assignment for Computer Systems and Networks module presents student with the opportunity to take on a role of an IT Support Engineer, who was given a task to create a script that monitors key details of the computer system such as CPU utilizations or disk usage and provides these in a reader friendly format in a log and html files. 
+
+The script writes automatically to all of the necessary files when it is executed in the terminal. This saves a lot of time and there is no need to write to the file manually.
 
 **NOTE:** The main code is in the **sysMonitor.sh** file 
 
